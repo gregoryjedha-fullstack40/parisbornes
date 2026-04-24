@@ -11,9 +11,7 @@ pinned: false
 short_description: Prioriser les zones d'installation des bornes de recharge
 ---
 
-# Welcome to Streamlit!
+# Projet Paris-Bornes
 
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Voici le repository GIT du projet accessible sur HuggingFace : https://huggingface.co/spaces/gregoryjedha/paris-bornes
+Le but du projet est de déterminer quelles sont les zones d'installation prioritaires des bornes de recharge de véhicules électriques selon 3 scénarios retenus et sur un horizon variant de 1 à 5 ans.
